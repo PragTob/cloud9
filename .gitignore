@@ -38,4 +38,5 @@ plugins-server/fixtures/node_env/hello.js
 npm-debug.log
 plugins-client/lib.apf/www/apf-packaged/apf_debug.js
 plugins-client/ext.livecoffee/
+plugins-client/ext.jasmine/
 
